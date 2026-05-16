@@ -1,0 +1,9 @@
+[server]
+headless=true
+port=8000
+
+[theme]
+primaryColor="#009688"
+backgroundColor="#ffffff"
+secondBackgroundColor="#ece5e5"
+textColor="#000000"
